@@ -1,0 +1,7 @@
+/home/xuyisen/project/Go_game/KataGoLike/cpp/build/CMakeFiles/test.dir
+/home/xuyisen/project/Go_game/KataGoLike/cpp/build/CMakeFiles/selfplay.dir
+/home/xuyisen/project/Go_game/KataGoLike/cpp/build/CMakeFiles/humanplay.dir
+/home/xuyisen/project/Go_game/KataGoLike/cpp/build/CMakeFiles/gtp.dir
+/home/xuyisen/project/Go_game/KataGoLike/cpp/build/CMakeFiles/get_input.dir
+/home/xuyisen/project/Go_game/KataGoLike/cpp/build/CMakeFiles/edit_cache.dir
+/home/xuyisen/project/Go_game/KataGoLike/cpp/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RenjuAI",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "get_input::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-get_input-Release-ad2e9245221074542c82.json",
+					"name" : "get_input",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gtp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gtp-Release-d2239f89067241151c09.json",
+					"name" : "gtp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "humanplay::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-humanplay-Release-0029dff9cff024d1ecaf.json",
+					"name" : "humanplay",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "selfplay::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-selfplay-Release-66d909caf57411a96107.json",
+					"name" : "selfplay",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Release-429cd5dc825301c622b0.json",
+					"name" : "test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+		"source" : "/home/xuyisen/project/Go_game/KataGoLike/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

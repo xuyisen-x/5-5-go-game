@@ -1,0 +1,152 @@
+[
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/test.dir/test.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/test.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/test.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/test.dir/GoGame/GoGame.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/GoGame/GoGame.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/GoGame/GoGame.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/test.dir/Model/ONNXEngine.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/Model/ONNXEngine.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/Model/ONNXEngine.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/test.dir/AI/RandomAI.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/RandomAI.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/RandomAI.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/test.dir/AI/MCTSAI.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/MCTSAI.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/MCTSAI.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/test.dir/AI/ExhaustiveTree.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/ExhaustiveTree.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/ExhaustiveTree.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -I/home/xuyisen/download/hdf/HDF5-1.14.3-Linux/HDF_Group/HDF5/1.14.3/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/selfplay.dir/selfplay.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/selfplay.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/selfplay.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -I/home/xuyisen/download/hdf/HDF5-1.14.3-Linux/HDF_Group/HDF5/1.14.3/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/selfplay.dir/GoGame/GoGame.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/GoGame/GoGame.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/GoGame/GoGame.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -I/home/xuyisen/download/hdf/HDF5-1.14.3-Linux/HDF_Group/HDF5/1.14.3/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/selfplay.dir/Model/ONNXEngine.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/Model/ONNXEngine.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/Model/ONNXEngine.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -I/home/xuyisen/download/hdf/HDF5-1.14.3-Linux/HDF_Group/HDF5/1.14.3/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/selfplay.dir/AI/RandomAI.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/RandomAI.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/RandomAI.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -I/home/xuyisen/download/hdf/HDF5-1.14.3-Linux/HDF_Group/HDF5/1.14.3/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/selfplay.dir/AI/MCTSAI.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/MCTSAI.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/MCTSAI.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -I/home/xuyisen/download/hdf/HDF5-1.14.3-Linux/HDF_Group/HDF5/1.14.3/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/selfplay.dir/AI/ExhaustiveTree.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/ExhaustiveTree.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/ExhaustiveTree.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/humanplay.dir/human.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/human.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/human.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/humanplay.dir/GoGame/GoGame.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/GoGame/GoGame.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/GoGame/GoGame.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/humanplay.dir/Model/ONNXEngine.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/Model/ONNXEngine.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/Model/ONNXEngine.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/humanplay.dir/AI/RandomAI.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/RandomAI.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/RandomAI.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/humanplay.dir/AI/MCTSAI.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/MCTSAI.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/MCTSAI.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/humanplay.dir/AI/ExhaustiveTree.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/ExhaustiveTree.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/ExhaustiveTree.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/gtp.dir/GTPengine.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/GTPengine.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/GTPengine.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/gtp.dir/GoGame/GoGame.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/GoGame/GoGame.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/GoGame/GoGame.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/gtp.dir/Model/ONNXEngine.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/Model/ONNXEngine.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/Model/ONNXEngine.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/gtp.dir/AI/RandomAI.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/RandomAI.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/RandomAI.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/gtp.dir/AI/MCTSAI.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/MCTSAI.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/MCTSAI.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/gtp.dir/AI/ExhaustiveTree.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/ExhaustiveTree.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/ExhaustiveTree.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -Dget_input_EXPORTS -O3 -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles/get_input.dir/get_input.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/get_input.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/get_input.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -Dget_input_EXPORTS -O3 -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles/get_input.dir/GoGame/GoGame.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/GoGame/GoGame.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/GoGame/GoGame.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -Dget_input_EXPORTS -O3 -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles/get_input.dir/Model/ONNXEngine.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/Model/ONNXEngine.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/Model/ONNXEngine.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -Dget_input_EXPORTS -O3 -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles/get_input.dir/AI/RandomAI.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/RandomAI.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/RandomAI.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -Dget_input_EXPORTS -O3 -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles/get_input.dir/AI/MCTSAI.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/MCTSAI.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/MCTSAI.cpp"
+},
+{
+  "directory": "/home/xuyisen/project/Go_game/KataGoLike/cpp/build",
+  "command": "/usr/bin/g++ -Dget_input_EXPORTS -O3 -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles/get_input.dir/AI/ExhaustiveTree.cpp.o -c /home/xuyisen/project/Go_game/KataGoLike/cpp/AI/ExhaustiveTree.cpp",
+  "file": "/home/xuyisen/project/Go_game/KataGoLike/cpp/AI/ExhaustiveTree.cpp"
+}
+]
